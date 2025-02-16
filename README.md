@@ -13,4 +13,4 @@ A simple Snake game built with HTML, CSS, and JavaScript.
 3. Enjoy the game!
 
 ## Credits
-- Developed by [Your Name].
+- Developed by Divyank Kumar Yadav.
